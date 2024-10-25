@@ -1,12 +1,14 @@
-# HTML 5 + CSS 👋  
+# HTML 5 + CSS👋  
 <br>
 
-This template should help get you started developing with HTML and CSS, check out the [tutorial](https://www.w3schools.com/html/) to learn more.
+This template should help get you started developing with HTML and CSS, TO LEARN MORE:
 
-Check out this [tutorial](https://www.w3schools.com/css/) for the styles.
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="50">](https://www.w3schools.com/html/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50">](https://www.w3schools.com/css/)
+
 <br>
 
-Your page will look like this: [TEMPLATE1](https://yadicep.github.io/TEMPLATE1/)
+Your page will look like this: [Go](https://yadicep.github.io/TEMPLATE1/)
 
 <br>
 <br>
